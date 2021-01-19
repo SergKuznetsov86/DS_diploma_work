@@ -1,0 +1,6 @@
+/materials/*
+/data/*
+/other_solves/*
+/docs/*
+.DS_Store
+.ipynb_checkpoints/*
